@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2015\Projects\Class size\Class size\bin\Debug\Class size.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Class size\Class size\bin\Debug\Class size.exe
+c:\users\hp\documents\visual studio 2015\Projects\Class size\Class size\bin\Debug\Class size.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Class size\Class size\obj\Debug\Class_size.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\Class size\Class size\obj\Debug\Class_size.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\Class size\Class size\obj\Debug\Class size.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\Class size\Class size\obj\Debug\Class size.exe
+c:\users\hp\documents\visual studio 2015\Projects\Class size\Class size\obj\Debug\Class size.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Class size\Class size\obj\Debug\Class size.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Class size\Class size\obj\Debug\Class size.csproj.CoreCompileInputs.cache
